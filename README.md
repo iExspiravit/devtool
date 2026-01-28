@@ -24,3 +24,6 @@ python devtool.py /path/to/project --out report.txt
 Analyzing: /home/user/project
 Python files: 12
 Total lines : 1843
+
+## Why this project
+This project was built as a hands-on exercise to practice building CLI tools, working with the filesystem, and structuring small but complete Python projects.
