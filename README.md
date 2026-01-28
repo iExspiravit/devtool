@@ -12,3 +12,15 @@ A simple command-line tool written in Python that analyzes a directory and repor
 
 ```bash
 python devtool.py /path/to/project
+
+With .json output:
+python devtool.py /path/to/project --json
+
+Write report to a file:
+python devtool.py /path/to/project --out report.txt
+```
+## Example Output
+
+Analyzing: /home/user/project
+Python files: 12
+Total lines : 1843
